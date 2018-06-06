@@ -6,7 +6,7 @@ library(shiny)
 source("hatgame.R")
 
 ui <- fluidPage(
-  tags$h2("Hat Game"),
+  tags$h2("SIR simulation"),
   hr(),
   
   fluidRow(
