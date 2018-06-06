@@ -1,3 +1,3 @@
-# HatGame
+# SIRsim
 
-A simple SIR simulation https://slphyx.shinyapps.io/HatGame/
+A simple SIR simulation 
